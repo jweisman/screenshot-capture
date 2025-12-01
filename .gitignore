@@ -1,0 +1,4 @@
+data/
+.venv/
+.env
+storage_state.json

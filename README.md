@@ -1,2 +1,1 @@
-# screenshot-capture
-Automate screenshot capture
+# Automate screenshot capture
