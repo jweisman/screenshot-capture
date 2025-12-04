@@ -1,4 +1,5 @@
 data/
 .venv/
 .env
+.DS_Store
 storage_state.json
